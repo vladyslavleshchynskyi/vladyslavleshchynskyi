@@ -72,10 +72,3 @@ My focus areas:
 | **Investor Onboarding & Compliance** | RegTech | KYC/AML reconciliation, secure S3 document uploads and a resumable onboarding wizard · Django, DRF, Next.js |
 | **Portfolio & Reporting Module** | FinTech | Cached valuation aggregates and scheduled PDF/CSV investor statements · FastAPI, Redis, pandas |
 | **Knologer Learning Platform** | EdTech | Stripe billing, gated content, Elasticsearch search and progress tracking · Django, DRF, Next.js |
-
----
-
-## 📊 GitHub Stats
-
-![Vladyslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladyslavleshchynskyi&show_icons=true&hide_border=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslavleshchynskyi&layout=compact&hide_border=true&theme=transparent)
